@@ -1,1 +1,2 @@
 # unemployment-markers
+In this Python project, my fellow collaborator, Williem Christian Encanarcion, and I analyzed a dataset that explored the relationship between mental illness and high unemployment rates. We used the conversion of categorical variables, a correlation matrix, logistic regression, and classification algorithms (Decision Tree, K-Nearest Neighbor, Random Forest, Baseline Random Forest) to investigate the linkage between behavioral and societal factors to employment.
